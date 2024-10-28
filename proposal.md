@@ -1,16 +1,12 @@
-# Project Proposal Example
+# Project Proposal
 
-## Project Choice (Tell us which project you're doing!)
+## Project Choice 
 
-- [ ] Flash Cards
-- [ ] Trivia (Self-scoring)
-- [ ] Spaceman
-- [ ] Tower of Hanoi
-- [ ] Simon
+- [ ] Minesweeper
 
 ## Project Description 
 
-My app is called Tic Tac Toe. It's a game app for players who want to play Tic Tac Toe online. Two players can join an online game and play a round of Tic Tac Toe, with the score being kept automatically and game results displayed at then end of a round -- whichever player won, or in the case of a draw, a tie between the users. Users will have the option to play again. In the future, I'd like to add a feature where one player can play against the computer. 
+My app is called Minesweeper. It's a game app for players who want to play Minesweeper online. Minesweeper is a classic single-player puzzle game often found on computers. The objective is to clear a rectangular grid filled with hidden mines without detonating any of them. Players uncover squares one at a time; if they reveal a mine, the game ends. However, if they uncover a safe square, a number will appear, indicating how many mines are adjacent to that square. This information helps players deduce the locations of the mines. 
 
 ## Wire Frames
 
@@ -26,20 +22,19 @@ My app is called Tic Tac Toe. It's a game app for players who want to play Tic T
 
 #### MVP Goals
 
-- As a player, I want my game to recognize three ticks in a row so that I know who won.
-- As a player, I would like to be informed when the game is over due to a tie.
-- As a player, I would like to know whose turn it is so that I don't have to keep track.
-- As a player, I would like to be informed with some indication when I mark a game box so that I know my selection worked.
-- As a player who requires assistive technologies, I would like accessibility features so that I'm not left out of enjoying the game.
-- As a player I would like to be able to restart the game after a win, loss or tie.
-- As a player, I want the UI to be engaging and out of the way so that I enjoy the experience of playing the game.\*\*
+- Implement a grid where players can click to reveal squares.
+- Include mine placement logic to randomly distribute mines.
+- Display numbers in revealed squares to indicate the count of adjacent mines.
+- End the game if a player clicks on a mine, displaying all mines and a game-over message.
+- Automatically reveal adjacent squares when a square with zero adjacent mines is clicked.
+- Determine a win condition when all safe squares are revealed, excluding mines.
+User Interface.
+- Create a simple and intuitive UI for interacting with the game.\*\*
 
 #### Stretch Goals
 
-- As a player, I would like a victory animation when I win the game, so that I feel good about my victory!
-- As a player, I would like to hear an audible sound when I mark a game box so that I know my selection worked.
-- As a player, I would like to play this game online so that I don't have to have my challenger sitting next to me.
-- As a player who wants to dominate the battlefield I want to become the ultimate tic tac toe tactician so I can beat all of my opponents
+- Offer at least two difficulty settings (e.g.,easy,medium,hard) with varying grid sizes and mine counts!
+- Provide an option to restart the game easily.
 
 #### Notionboard Template
 Notionboard template for building projects ( You can use this for any project )
@@ -54,13 +49,8 @@ https://www.tablesgenerator.com/markdown_tables
 Do not neglect to plan, you will thank yourself later for being proactive!
 | Day        |   | Task                               | Blockers | Notes/ Thoughts |
 |------------|---|------------------------------------|----------|-----------------|
-| Thursday   |   | Create and present proposal        |          |                 |
-| Friday     |   | Create html, js, css files         |          |                 |
-| Saturday   |   | Create basic scaffolding           |          |                 |
-| Sunday     |   | Add functionality                  |          |                 |
-| Monday     |   | Add styling                        |          |                 |
-| Tuesday    |   | Finaliza MVP                       |          |                 |
-| Wedenesday |   | Work on stretch goals              |          |                 |
-| Thursday   |   | Work on icebox items if applicable |          |                 |
-| Friday     |   | Presentation Day!                  |          |                 |
+| Monday     |   | Create and present proposal        |          |                 |
+| Tuesday    |   | Create html, js, css files         |          |                 |
+| Wednesday  |   | Create basic scaffolding           |          |                 |
+| Thursday   |   |                                    |          |                 |
 |            |   |                                    |          |                 |
