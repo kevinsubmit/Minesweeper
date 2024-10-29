@@ -12,11 +12,11 @@ My app is called Minesweeper. It's a game app for players who want to play Mines
 
 **Initial Landing View**
 
-![image](https://media.git.generalassemb.ly/user/21811/files/0f7aee00-c1d9-11ea-9dad-de086a5c91fc)
+![image](https://github.com/kevinsubmit/Minesweeper/blob/main/imgs/begin.png)
 
 **Results View**
 
-![image](https://media.git.generalassemb.ly/user/21811/files/1a358300-c1d9-11ea-95da-6c14aefb0f18)
+![image](https://github.com/kevinsubmit/Minesweeper/blob/main/imgs/result.png)
 
 ## User Stories
 
