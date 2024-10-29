@@ -53,4 +53,8 @@ Do not neglect to plan, you will thank yourself later for being proactive!
 | Tuesday    |   | Create html, js, css files         |          |                 |
 | Wednesday  |   | Create basic scaffolding           |          |                 |
 | Thursday   |   |                                    |          |                 |
-|            |   |                                    |          |                 |
+| Friday     |   |                                    |          |                 |
+| Monday     |   |                                    |          |                 |
+| Tuesday    |   |                                    |          |                 |
+| Wesnesday  |   |                                    |          |                 |
+| Thursday   |   |                                    |          |                 |
